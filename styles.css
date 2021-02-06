@@ -112,3 +112,10 @@ blockquote:after {
   margin-top: 0px;
   margin-bottom: 0px;
 }
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  color: green;
+  text-decoration: none;
+}
